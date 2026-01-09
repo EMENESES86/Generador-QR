@@ -500,3 +500,5 @@ class QRDesktopApp(tk.Tk):
 if __name__ == "__main__":
     app = QRDesktopApp()
     app.mainloop()
+    
+    
